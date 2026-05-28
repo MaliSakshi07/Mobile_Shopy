@@ -1,4 +1,4 @@
-# Mobile_SHopy_Management System
+# Mobile_Shopy_Management System
 
 ### Desktop Application Using C#.NET
 
